@@ -1,0 +1,10 @@
+/* Global */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.skill-description {
+    padding: 36px 80% 36px 50px;
+    text-align: left;
+    margin: 40;
+}
